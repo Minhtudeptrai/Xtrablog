@@ -1,0 +1,91 @@
+.main .video{
+    border-top: 5px solid #0CC;
+    padding-top: 55px;
+    margin-bottom: 60px;
+}
+.main .detail-blog .discription .author{
+    margin-bottom: 40px;
+}
+.main .detail-blog .head{
+    color: #099;
+    font-size: 1.7rem;
+}
+*{
+    font-family: sans-serif;
+}
+.main .detail-blog {
+    line-height: 2em;
+    color: #999;
+}
+.main .detail-blog .discription .comment{
+    color: #099;
+    display: block;
+    text-align: right;
+    margin-bottom: 50px;
+}
+.main .detail-blog .comments .sonny{
+    border-top: 5px solid #0CC;
+    padding-top: 60px;
+    margin-bottom: 50px;
+}
+.main .detail-blog .comments .rep-date{
+    display: flex;
+    justify-content: space-between;
+    color: #099;
+}
+.anh{
+border-radius: 50%;
+border: 1px solid #dee2e6;
+padding: .25rem;
+justify-content: center;
+}
+.main .detail-blog .comments .name{
+    color: #099;
+    display: flex;
+    justify-content: center;
+}
+.main .detail-blog .comments .soft-date{
+    display: flex;
+    justify-content: flex-end;
+    color: #099;
+
+}
+.main .detail-blog .comments .soft{
+    border-top: 1px solid #999;
+    padding-top: 20px;
+}
+.main .detail-blog .your-comment .name{
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
+.main .detail-blog .your-comment .email{
+    margin-bottom: 25px;
+}
+.main .detail-blog .your-comment .ur{
+    border: 1px solid #0CC;
+    width: 60%;
+}
+.main .detail-blog .your-comment .form{
+    width: 100%;
+    height: 100%;
+}
+.main .detail-blog .your-comment .cac{
+    margin-bottom: 20px;
+}
+.main .detail-blog .your-comment .text-right{
+    padding-right: 40%;
+    padding-top: 20px;
+}
+.main .detail-blog .your-comment .text-right .nut{
+    background-color: #0CC;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.main .detail-blog .your-comment .text-right .nut:hover{
+    background-color: #099;
+}
+.main .detail-blog .head-left{
+    border-top: 5px solid #0CC;
+    padding-top: 20px;
+}

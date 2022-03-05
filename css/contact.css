@@ -1,0 +1,63 @@
+.main .map{
+    border-top: 5px solid #0CC;
+    padding-top: 60px;
+    margin-bottom: 35px;
+}
+.main .map iframe{
+    width: 100%;
+}
+.main .head{
+    color: #099;
+    margin-bottom: 60px;
+}
+.main .contact .name2{
+    height: 100%;
+    width: 100%;
+}
+.main .contact .name{
+    color: #099;
+    margin-bottom: 35px;
+    text-align: right;
+}
+.main .contact .b .form{
+    height: 100%;
+    width: 100%;
+}
+.main .contact .b .type{
+    margin-bottom: 25px;
+    border: 1px solid #0cc;
+}
+.main .contact .b .submit{
+    background-color: #0CC;
+    color: white;
+    border-radius: 7px;
+    border: none;
+}
+.main .contact .b .submit:hover{
+    background-color: #099;
+}
+.main .contact .c .text{
+    color: #999;
+    margin-bottom: 40px;
+    line-height: 35px;
+}
+.main .contact .c .sdt{
+    margin-bottom: 10px;
+}
+.main .contact .c .icon{
+    background-color: #0cc;
+    color: white;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin-right: 20px;
+    box-sizing: border-box;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 20px;
+}
+.main .contact .c .fa{
+    padding-left: 17px;
+}
