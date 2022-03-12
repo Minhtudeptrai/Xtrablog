@@ -69,6 +69,35 @@ ul{
     color: #0CC;
     cursor: pointer;
 }
+.side-bar .menu{
+    margin-bottom: 50px;
+}
+.side-bar .social{
+    margin-bottom: 60px;
+    margin-left: 25px;
+    margin-right: 40px;
+}
+.side-bar .social .list{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+.side-bar .social .item{
+    background-color: white;
+    color: #0CC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+    font-size: 1.4rem;
+    height: 50px;
+    width: 50px;
+    margin-bottom: 10px;
+}
+.side-bar .social .item:hover{
+    cursor: pointer;
+}
 a{
 color: inherit;
 text-decoration-line: none;
@@ -98,4 +127,19 @@ text-decoration-line: none;
 }
 .main{
     padding: 80px 80px 35px 80px;
+}
+.main .footer{
+    font-size: 19px;
+    padding-top: 60px;
+    color: #999;
+    display: flex;
+}
+.main .footer .design{
+    text-align: left;
+}
+.main .footer .copyright{
+    text-align: right;
+}
+.main .footer .design .template{
+    color: #0CC;
 }
